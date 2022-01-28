@@ -1,4 +1,4 @@
 
-# krzysztofwysocki.github.io
+# Krzysztof Wysocki
 
 ## punkt
