@@ -6,6 +6,8 @@ Douglas Hofstadter's 2007 masterpiece, _**I Am a Strange Loop**_, dives into the
 > 
 > — Douglas Hofstadter, _I Am a Strange Loop_, p. 363
 
+About Me: [Krzysztof Wysocki](Krzysztof%20Wysocki.md)
+
 ## Purpose of This Page
 
 This space is a personal anthology of self-referencing marvels observed in various facets of my life. It's a collection born out of sheer curiosity, a testament to my fascination with strange loops and their mysterious presence in the universe. While it may seem like a quirky collection without practical application, it's a celebration of the enigmatic beauty found in the complexities of self-reference and introspection.
