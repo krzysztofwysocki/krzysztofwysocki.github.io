@@ -12,5 +12,16 @@ This space is a personal anthology of self-referencing marvels observed in vario
 
 ## Self-referencing marvels
 
-- [EBNF](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form) **extended Backus–Naur form** (**EBNF**) is a family of [metasyntax](https://en.wikipedia.org/wiki/Metasyntax "Metasyntax") notations. EBNF can be described using EBNF
-- 
+### EBNF 
+
+[EBNF](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form) **extended Backus–Naur form** (**EBNF**) is a family of [metasyntax](https://en.wikipedia.org/wiki/Metasyntax "Metasyntax") notations. EBNF can be described using EBNF.
+
+### Quine
+
+A [quine](https://en.wikipedia.org/wiki/Quine_(computing)) is a [computer program](https://en.wikipedia.org/wiki/Computer_program "Computer program") which takes no input and produces a copy of its own [source code](https://en.wikipedia.org/wiki/Source_code "Source code") as its only output. The standard terms for these programs in the [computability theory](https://en.wikipedia.org/wiki/Computability_theory "Computability theory") and [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science") literature are "self-replicating programs", "self-reproducing programs", and "self-copying programs".
+
+### Drawing Hands
+
+_**Drawing Hands**_ is a [lithograph](https://en.wikipedia.org/wiki/Lithograph "Lithograph") by the [Dutch](https://en.wikipedia.org/wiki/Netherlands "Netherlands") artist [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher "M. C. Escher") first printed in January 1948. It depicts a sheet of paper, out of which two hands rise, in the [paradoxical](https://en.wikipedia.org/wiki/Paradox "Paradox") act of drawing one another into existence. This is one of the most obvious examples of Escher's common use of paradox.
+
+![](Self%20Drawing%20Hands.png)
