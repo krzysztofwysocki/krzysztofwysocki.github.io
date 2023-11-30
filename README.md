@@ -26,4 +26,4 @@ A [quine](https://en.wikipedia.org/wiki/Quine_(computing)) is a [computer pro
 
 _**Drawing Hands**_ is a [lithograph](https://en.wikipedia.org/wiki/Lithograph "Lithograph") by the [Dutch](https://en.wikipedia.org/wiki/Netherlands "Netherlands") artist [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher "M. C. Escher") first printed in January 1948. It depicts a sheet of paper, out of which two hands rise, in the [paradoxical](https://en.wikipedia.org/wiki/Paradox "Paradox") act of drawing one another into existence. This is one of the most obvious examples of Escher's common use of paradox.
 
-![](Self%20Drawing%20Hands.png)
+![Self Drawing Hands](media/Self%20Drawing%20Hands.png)
