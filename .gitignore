@@ -1,0 +1,58 @@
+# OS X
+**/.DS_Store
+
+# word documents
+**/*.docx
+**/*.doc
+
+# wyniki kontroli md
+**/chkmd*
+
+# Visual Studio Code
+.vscode
+
+# Obsidian
+.obsidian
+.obsidian/workspace 
+.obsidian/workspace.json 
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+
+# node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and databases
+**/*.log
+**/*.sql
+
+# .env file
+.env
+
+# IntelliJ
+out/
+
+# MS Office
+**/~*.doc
+**/~*.docx
+
+# Mermaid
+mermaid-filter.err
+
