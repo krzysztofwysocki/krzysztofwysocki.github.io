@@ -22,8 +22,13 @@ This space is a personal anthology of self-referencing marvels observed in vario
 
 A [quine](https://en.wikipedia.org/wiki/Quine_(computing)) is a [computer program](https://en.wikipedia.org/wiki/Computer_program "Computer program") which takes no input and produces a copy of its own [source code](https://en.wikipedia.org/wiki/Source_code "Source code") as its only output. The standard terms for these programs in the [computability theory](https://en.wikipedia.org/wiki/Computability_theory "Computability theory") and [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science") literature are "self-replicating programs", "self-reproducing programs", and "self-copying programs".
 
-- As an example take a look at minecraft built whitin minecraft world [I made Minecraft in Minecraft](https://www.youtube.com/watch?v=-BP7DhHTU-I)
+- Simple python quine. Author: Frank Stajano (fstajano@orl.co.uk)
 
+```python
+l='l=%s;print l%%`l`';print l%`l`
+``` 
+
+- Take a look at minecraft built whitin minecraft world [I made Minecraft in Minecraft](https://www.youtube.com/watch?v=-BP7DhHTU-I)
 
 ### Drawing Hands
 
@@ -31,10 +36,23 @@ _**Drawing Hands**_ is a [lithograph](https://en.wikipedia.org/wiki/Lithograph
 
 ![Self Drawing Hands](media/Self%20Drawing%20Hands.png)
 
-### Sierpinski Triangle
+### Fractal self-similarity 
+
+#### Sierpinski Triangle
 
 The Sierpinski Triangle is a fractal and an attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. It's named after the Polish mathematician Wacław Sierpiński, who described it in 1915, although it had been known to Italian mathematician Giuseppe Peano as early as 1890.
 
 ![Sierpiński_triangle_zoom_animation](media/Sierpiński_triangle_zoom_animation.gif)
 
 At each iteration, the emerging pattern remains consistent: an exact smaller-scale replica of the original. When you zoom in on any of the corner triangles, you will find an identical version of the initial triangle. This property holds true at any level of magnification. Each smaller triangle is an exact miniature copy of the whole, embodying the concept of exact self-similarity.
+
+#### Koch curve
+
+The **Koch snowflake** (also known as the **Koch curve**, **Koch star**, or **Koch island**[[1]](https://en.wikipedia.org/wiki/Koch_snowflake#cite_note-1)[[2]](https://en.wikipedia.org/wiki/Koch_snowflake#cite_note-2)) is a [fractal curve](https://en.wikipedia.org/wiki/Fractal_curve "Fractal curve") and one of the earliest [fractals](https://en.wikipedia.org/wiki/Fractal "Fractal") to have been described. It is based on the Koch curve, which appeared in a 1904 paper titled "On a Continuous Curve Without Tangents, Constructible from Elementary Geometry"[[3]](https://en.wikipedia.org/wiki/Koch_snowflake#cite_note-Koch-3) by the Swedish mathematician [Helge von Koch](https://en.wikipedia.org/wiki/Helge_von_Koch "Helge von Koch").
+
+![KochSnowGif16_800x500_2](media/KochSnowGif16_800x500_2.gif)
+
+#### Romanesco broccoli
+
+[Romanesco broccoli](https://en.wikipedia.org/wiki/Romanesco_broccoli "Romanesco broccoli").
+![Romanesco](media/Romanesco.jpeg)
